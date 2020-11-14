@@ -1,9 +1,10 @@
-HAIKAL M DAFI PROJECT
+Follow my project 
 =====================
 Follow me at github htpps://www.github.com/haikalmdafi
+FB : Haikal M Dafi
+IG : haikal.m.dafi
 
-Whenever you commit to this repository, GitHub Pages will run to rebuild the pages in your site, from the content in your Markdown files.
-
+Jasa Pembuatan Website Keren kaya gini ? PM aja !
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
